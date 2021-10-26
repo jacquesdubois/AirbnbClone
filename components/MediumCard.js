@@ -9,7 +9,7 @@ function MediumCard({ img, title }) {
                     layout='fill'
                 />
             </div>
-            <h3 className='text-2xl mt-3'>{title}</h3>
+            <h3 className='font-semibold text-2xl mt-3'>{title}</h3>
         </div>
     )
 }
