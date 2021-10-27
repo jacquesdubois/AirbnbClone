@@ -23,7 +23,7 @@ function Footer() {
                 <h5 className='font-bold'>HOST</h5>
                 <p>Hire</p>
                 <p>Jacques</p>
-                <p>As a dev</p>
+                <p>As a Fullstack Engineer</p>
                 <p>For your company</p>
                 <p>jacquesadubois@gmail.com</p>
             </div>
